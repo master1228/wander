@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Home",
+    "artists": "Artists",
+    "releases": "Releases",
+    "contacts": "Contacts",
+    "blog": "Blog",
+    "shop": "Shop"
+  },
+  "hero": {
+    "slogan": "Creating the future of music together",
+    "description": "Wander Music is not just a label, it's a space for creativity and innovation in music. We help artists create unique sounds and reach new heights.",
+    "submitApplication": "Submit Application"
+  },
+  "stats": {
+    "listeners": "Active Listeners",
+    "releases": "Released Tracks",
+    "artists": "Artists"
+  },
+  "artists": {
+    "title": "Our Artists"
+  },
+  "releases": {
+    "title": "Latest Releases"
+  }
+}
